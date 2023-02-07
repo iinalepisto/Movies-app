@@ -2,8 +2,9 @@
 Movie app to find movies and tv shows and add them to your favorite list.
 
 Still todo: 
--register and login users
--make pagination for different genres
+-register and login users<br>
+-create favorite list for users<br>
+-make pagination for different genres<br>
 
 <img width="956" alt="Näyttökuva_20230207_150106" src="https://user-images.githubusercontent.com/108327960/217279553-bb632f3e-997e-4f1f-b3fa-4581953bbd72.png">
 
