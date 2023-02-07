@@ -1,7 +1,9 @@
 # Movies-app
 Movie app to find movies and tv shows and add them to your favorite list.
 
-Still todo: 
+You can search movies or tv shows by name. See details about the movie/show. Infinite scrolling.
+
+Still todo: <br>
 -register and login users<br>
 -create favorite list for users<br>
 -make pagination for different genres<br>
