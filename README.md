@@ -1,7 +1,9 @@
 # Movies-app
 Movie app to find movies and tv shows and add them to your favorite list.
 
-You can search movies or tv shows by name. See details about the movie/show. Infinite scrolling.
+You can search movies or tv shows by name. See details about the movie/show. Infinite scrolling and CRUD operations.<br>
+
+Created with React, Node.js, Express, MongoDB and themoviedb.org.
 
 Still todo: <br>
 -register and login users<br>
